@@ -1,8 +1,8 @@
 # SWE Reanalysis Model Temperature Threshold Sensitivity Analysis in the Olympic Mountains 
 
 ## Hannah Besso, Carina Thompson, Eric Gagliano
-## CEE 568: Snow Hydrology
-## March 19, 2021
+CEE 568: Snow Hydrology
+March 19, 2021
 
 (See full report pdf in presentation and report folder)
 
